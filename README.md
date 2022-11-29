@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sab-ra
 - 👀 I’m interested in writing books and code
-- 🌱 I’m currently learning Ruby with the Odin
+- 🌱 I’m currently learning Ruby with The Odin Project
 - 💞️ I’m looking to collaborate on a mobile app for hairdressers
 - 📫 How to reach me by @Sabra666 in Telegram
 
